@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # \# AI-Automation-Learning
 
 # 
@@ -59,4 +60,23 @@
 # \* \[ ] Complete Portfolio Project
 
 # 
+=======
+# My goal is to become an AI Automation Consultant.
+
+# 
+
+# I am currently learning:
+
+# \- n8n Automation
+
+# \- AI Agents
+
+# \- OpenAI API
+
+# \- Make.com Workflows
+
+# 
+
+# This repository documents my learning journey and automation projects.
+>>>>>>> Stashed changes
 
