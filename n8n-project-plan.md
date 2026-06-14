@@ -1,8 +1,6 @@
-# \# First n8n Workflow Project
+# First n8n Workflow Project
 
-# 
-
-# \## Project Name
+# Project Name
 
 # 
 
@@ -10,7 +8,7 @@
 
 # 
 
-# \## Goal
+# Goal
 
 # 
 
@@ -18,21 +16,17 @@
 
 # 
 
-# \## Tools
+# Tools
 
-# 
+# n8n
 
-# \* n8n
+# Google Sheets
 
-# \* Google Sheets
+# Gmail
 
-# \* Gmail
+# OpenAI API (future enhancement)
 
-# \* OpenAI API (future enhancement)
-
-# 
-
-# \## Workflow
+# Workflow
 
 # 
 
@@ -48,11 +42,9 @@
 
 # 
 
-# \## Status
+# Status
 
 # 
 
-# Planning
-
-
+# Planning.
 
