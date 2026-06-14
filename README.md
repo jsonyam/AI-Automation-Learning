@@ -48,7 +48,7 @@
 
 # \* \[x] Created Development Branch
 
-# \* \[x] Learn GitHub Desktop
+# \* \[ ] Learn GitHub Desktop
 
 # \* \[ ] Build First n8n Workflow
 
